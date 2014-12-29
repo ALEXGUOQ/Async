@@ -8,6 +8,8 @@
 
 import Cocoa
 
+import Async
+
 class ViewController: NSViewController {
                             
 	override func viewDidLoad() {

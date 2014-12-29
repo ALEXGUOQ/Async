@@ -9,6 +9,8 @@
 import UIKit
 import XCTest
 
+import Async
+
 class AsyncExample_iOSTests: XCTestCase {
     
     override func setUp() {

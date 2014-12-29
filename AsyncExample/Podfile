@@ -1,0 +1,22 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+inhibit_all_warnings!
+
+target 'AsyncExample OS X' do
+    platform :osx, '10.10'
+    pod 'Async', :path => '~/Gits/Async'
+end
+target 'AsyncExample OS XTests' do
+    platform :osx, '10.10'
+    pod 'Async', :path => '~/Gits/Async'
+end
+
+target 'AsyncExample iOS' do
+    platform :ios, '8.0'
+    pod 'Async', :path => '~/Gits/Async'
+end
+target 'AsyncExample iOSTests' do
+    platform :ios, '8.0'
+    pod 'Async', :path => '~/Gits/Async'
+end
+

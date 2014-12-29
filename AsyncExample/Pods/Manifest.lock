@@ -1,0 +1,14 @@
+PODS:
+  - Async (1.1.1)
+
+DEPENDENCIES:
+  - Async (from `~/Gits/Async`)
+
+EXTERNAL SOURCES:
+  Async:
+    :path: ~/Gits/Async
+
+SPEC CHECKSUMS:
+  Async: 4ba79915d3f43324db9e1e296db324cb896fa266
+
+COCOAPODS: 0.36.0.beta.1

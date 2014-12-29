@@ -9,6 +9,8 @@
 import Cocoa
 import XCTest
 
+import Async
+
 class AsyncExample_OS_XTests: XCTestCase {
     
     override func setUp() {
